@@ -1,5 +1,4 @@
-### Safa Anıl Atasoy
-#### Software Engineer
+
 ![Software Engineer](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 Thank you for taking the time to read my profile. If you have any questions or would like to discuss potential opportunities, please feel free to reach out to me.
@@ -8,7 +7,7 @@ Thank you for taking the time to read my profile. If you have any questions or w
 - 📫 How to reach me: safaanilatasoy@gmail.com 
 
 ## 🌐 Socials:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/safaanilatasoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/safaanilatasoy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TitanTheDev)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/safaanilatasoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/safaanilatasoy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/TitanTheDev)  
 
 
 # 📊 GitHub Stats:
