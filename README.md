@@ -10,7 +10,8 @@ Thank you for taking the time to read my profile. If you have any questions or w
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/safaanilatasoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/safaanilatasoy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TitanTheDev)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=safaanilatasoy)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=safaanilatasoy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=safaanilatasoy&show_icons=true&count_private=true)  
+
 
