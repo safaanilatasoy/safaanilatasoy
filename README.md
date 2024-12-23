@@ -3,7 +3,9 @@
 
 Thank you for taking the time to read my profile. If you have any questions or would like to discuss potential opportunities, please feel free to reach out to me.
 
-- 🔭 I’m currently working on TOSHIES 
+- 🔭 I’m currently working on
+- HOTDOGS
+- TOSHIES 
 - 📫 How to reach me: safaanilatasoy@gmail.com 
 
 
