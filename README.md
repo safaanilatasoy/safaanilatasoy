@@ -5,7 +5,6 @@ Thank you for taking the time to read my profile. If you have any questions or w
 
 - 🔭 I’m currently working on
 - HOTDOGS
-- TOSHIES 
 - 📫 How to reach me: safaanilatasoy@gmail.com 
 
 
